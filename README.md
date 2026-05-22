@@ -1,2 +1,2 @@
 # pyhton-task-manager
-Learning Python through an task manager app
+Learning Python through a task manager app
